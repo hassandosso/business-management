@@ -1,0 +1,20 @@
+.mynav{
+    height: 100px;
+    background-color: brown;
+}
+.mybtn{
+    float: right;
+}
+.menu{
+    margin-top: 60px;
+    float: right;
+    
+}
+
+.menu ul li{
+    font-size: 18px;   
+}
+.afternav{
+    margin-top: 100px;
+    width: 80%;
+}
